@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋                                                                                                    
 #  My Name is Chhotu.
 Reach out to me at **[chhotukumar20102000@gmail.com](chhotukumar20102000@gmail.com)**
 <!-- [![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fchhotu.github.io/portfolio)](https://chhotu.github.io/portfolio) -->
@@ -49,7 +49,8 @@ sort etc. in a beautiful and intuitive manner, created Purely using JavaScript ,
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chhotu05&theme=radical)](https://github.com/chhotu05/github-readme-stats)
 
  
- 
+ ![Profile Views Count](https://komarev.com/ghpvc/?username=chhotu05&style=flat-square&color=brightgreen)
+
 <!---
 chhotu05/chhotu05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
