@@ -42,8 +42,9 @@ sort etc. in a beautiful and intuitive manner, created Purely using JavaScript ,
  - [My Portfolio Website](https://chhotu05.github.io/portfolio/)
  
 ---
+<!---
   [![Chhotu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chhotu05&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/chhotu05/github-readme-stats)
-
+--->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chhotu05&theme=radical)](https://github.com/chhotu05/github-readme-stats)
