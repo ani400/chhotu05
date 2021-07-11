@@ -31,15 +31,20 @@ Reach out to me at **[chhotukumar20102000@gmail.com](chhotukumar20102000@gmail.c
        
 ### Here are some of my projects:
 
+ - [User Management System](https://github.com/chhotu05/user-system)
+    * This is an User-Management System which can store and display user’s data with CRUD (Create, Read, Update, Delete) Functionality.
+    * Technologies used :  NodeJS, EJS, Javascript, CSS, axios, express and MongoDB.
+
  - [Weather App](https://chhotu05.github.io/weather-app/)
     * A Weather Web Application that utilizes the **OpenWeatherMap's API** to return current weather information
 like Temperature, Humidity and Wind speed for a given location.
     * Technologies used : JavaScript,Bootstrap, HTML, CSS, [OpenWeatherMap's API](https://openweathermap.org/api) .
  - [Sorting Visualiser](https://chhotu05.github.io/sorting-visualiser/)
       * A simple sort visualising web app to visualise different kinds of Sorting Algorithms like Insertion sort, Merge
-sort etc. in a beautiful and intuitive manner, created Purely using JavaScript , HTML5, CSS3.
+sort etc. in a beautiful and intuitive manner.
       * Technologies used : JavaScript, HTML5, CSS3.
  - [My Portfolio Website](https://chhotu05.github.io/portfolio/)
+   * (currently in development phase).
  
 ---
 
