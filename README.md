@@ -19,11 +19,13 @@ Reach out to me at **[chhotukumar20102000@gmail.com](chhotukumar20102000@gmail.c
 - **Libraries & Frameworks :** <br> 
           ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
           ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+          ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
           ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
            ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
            ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
           
-- **DB Language :** <br> ![mySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+- **DataBase :** <br>
+                         ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 - **Others :** <br> 
        ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
        ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -51,9 +53,9 @@ sort etc. in a beautiful and intuitive manner.
   [![Chhotu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chhotu05&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/chhotu05/github-readme-stats)
 
 
-
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chhotu05&theme=radical)](https://github.com/chhotu05/github-readme-stats)
-
+ -->
  
  ![Profile Views Count](https://komarev.com/ghpvc/?username=chhotu05&style=flat-square&color=brightgreen)
 
