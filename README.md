@@ -45,8 +45,8 @@ like Temperature, Humidity and Wind speed for a given location.
       * A simple sort visualising web app to visualise different kinds of Sorting Algorithms like Insertion sort, Merge
 sort etc. in a beautiful and intuitive manner.
       * Technologies used : JavaScript, HTML5, CSS3.
- - [My Portfolio Website](https://chhotu05.github.io/portfolio/)
-   * (currently in development phase).
+ - [Movie Stock](https://chhotu05.github.io/movie-stock/)
+    * It's a web application utilizing TheMovieDB's API (TMDB API) that can provide various details about movies based on user's search like movie name, ratings, poster, overview etc.
  
 ---
 
